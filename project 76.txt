@@ -1,0 +1,11 @@
+Admin
+access to code
+maintains website
+moderates the page and barter deals
+
+user
+View the website
+posts deals and sales
+message another user
+
+
